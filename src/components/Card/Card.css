@@ -1,0 +1,16 @@
+.card-background {
+    background-color:black;
+    color: white;
+    height: 35vh;
+    border: 4px;
+    margin: 6px;
+    margin-bottom: 40px; 
+    flex-basis: 18%;
+  }
+  
+  .card-background img{
+    width:  18vw;
+    height: 20vh;
+    padding: 4px;
+  }
+  
